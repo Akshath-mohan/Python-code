@@ -1,0 +1,5 @@
+text=("aksh word")
+print(text.upper())
+print(text.replace("aksh","PYTHON"))
+print(text.lower())
+print(text.ljust())

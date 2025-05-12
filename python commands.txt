@@ -1,0 +1,7 @@
+python commands 
+
+>> py -m pip install --upgrade pip ##uninstall existing pip and installing new updated pip
+>> pip install numpy pandas matplotlib  ## install pip libraries
+
+>> to find even number [number%2==0]
+>> to find even number [number%2!=0]
