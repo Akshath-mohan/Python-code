@@ -10,6 +10,7 @@ class calc:
     sub = lambda x,y,a,b: x-y-a-b
     mul = lambda x,y,a,b: x*y*a*b
     div = lambda x,y,a,b: x/y/a/b
+    print="github desktop"
 
 
 
